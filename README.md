@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o João Victor Alves Luz</h1>
+<h1 align="center">👋 Olá, eu sou o João Luz</h1>
 
 <p align="center">
   <b>🚀 Backend Developer | Cloud Engineer | DevOps | SRE </b><br/>
