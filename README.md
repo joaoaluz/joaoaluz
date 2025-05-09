@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o João Luz</h1>
 
 <p align="center">
-  <b>🚀 Backend Developer | Cloud Engineer | DevOps | SRE </b><br/>
+  <b>🚀 Cloud Engineer | DevOps | SRE | Backend Developer </b><br/>
   Engenheiro da Computação com MBA em Cloud Engineering & Architecture e sólida experiência em desenvolvimento back end, arquitetura de nuvem (AWS) e DevOps. SRE, Focado em automação, escalabilidade e confiabilidade.
 </p>
 
