@@ -14,11 +14,6 @@ Especialista em construir soluções escaláveis e resilientes com **Node.js**, 
 
 ---
 
-### 📌 Projetos em Destaque
-
-Em construção 😅
----
-
 ### 🎯 Em aprendizado
 
 - **GitOps com ArgoCD & Flux**
