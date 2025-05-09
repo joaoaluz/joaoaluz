@@ -1,16 +1,29 @@
-# 👋 Olá, eu sou o João Victor Alves Luz
+<h1 align="center">👋 Olá, eu sou o João Victor Alves Luz</h1>
 
-🚀 **Backend Developer | Cloud Engineer | DevOps | SRE**  
-Especialista em construir soluções escaláveis e resilientes com **Node.js**, **TypeScript**, **Kubernetes**, **AWS** e **Infraestrutura como Código**. Apaixonado por automação, arquitetura de microsserviços e entrega contínua de software com qualidade.
-
+<p align="center">
+  <b>🚀 Backend Developer | Cloud Engineer | DevOps | SRE </b><br/>
+  Engenheiro da Computação com MBA em Cloud Engineering & Architecture e sólida experiência em desenvolvimento back end, arquitetura de nuvem (AWS) e DevOps. SRE, Focado em automação, escalabilidade e confiabilidade.
+</p>
 ---
 
 ### 🛠️ Tecnologias & Competências
 
-- **Cloud & DevOps**: AWS (EKS, Lambda, S3), Pulumi, Terraform, Serverless Framework, Docker, Kubernetes, CI/CD (GitHub Actions, Bitbucket Pipelines), Monitoramento (CloudWatch, Grafana)
-- **Desenvolvimento Backend**: Node.js, TypeScript, Python, Clean Architecture, Testes Automatizados (Jest, Vitest)
-- **Bancos de Dados**: PostgreSQL, DynamoDB
-- **Ferramentas & Metodologias**: Git, Scrum, Kanban, Jira, Linux
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8131AF?style=for-the-badge&logo=pulumi&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+
 
 ---
 
@@ -23,13 +36,13 @@ Especialista em construir soluções escaláveis e resilientes com **Node.js**, 
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Vamos nos conectar
 
-- **LinkedIn**: [linkedin.com/in/joaoalvesluz](https://www.linkedin.com/in/joaoalvesluz/)
-- **E-mail**: engluzjoao@gmail.com
-- **Currículo**: [Clique aqui](https://www.linkedin.com/in/joaoalvesluz/)
-- *(Em breve:* Portfólio com showcase de projetos DevOps completo 🚧)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvesluz/)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engluzjoao@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoaluz)
 
 ---
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar os projetos e me chamar para conversar sobre tecnologia, DevOps, SRE, nuvem ou colaboração em projetos reais! 🚀
+💬 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos ou me chamar para conversar sobre DevOps, Sre Nuvem ou colaborações em tecnologia.  
+🚀 *Let's build scalable, reliable and automated infrastructure together!*
