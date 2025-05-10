@@ -24,7 +24,7 @@
 ---
 
 ### 📌 Projetos em Destaque
-
+- https://github.com/joaoaluz/sqs-keda-webhook-consumer
 
 ---
 
