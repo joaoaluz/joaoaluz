@@ -26,7 +26,7 @@
 
 ### 📌 Projetos em Destaque
 - https://github.com/joaoaluz/sqs-keda-webhook-consumer
-
+- https://github.com/joaoaluz/whisper-ec2-captcha-api
 ---
 
 ### 📫 Vamos nos conectar
