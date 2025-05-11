@@ -37,5 +37,5 @@
 
 ---
 
-💬 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos ou me chamar para conversar sobre DevOps, Sre Nuvem ou colaborações em tecnologia.  
+💬 Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos ou me chamar para conversar sobre DevOps, Sre, Nuvem ou colaborações em tecnologia.  
 🚀 *Let's build scalable, reliable and automated infrastructure together!*
